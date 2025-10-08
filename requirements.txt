@@ -1,0 +1,10 @@
+Los requerimientos técnicos del proyecto 
+
+Front 
+Html, Css 
+Paleta de colores a usar
+Tipografia (Máx 3)
+
+
+Back
+Entender que requiere el back del proyecto
